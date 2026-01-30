@@ -1,0 +1,8 @@
+Glossary 
+repository: a project tracked by git
+commit: a saved snapshot of changes
+branch: a parallel line of development
+merge: combining branch histories
+remote: a linked online repository
+conflict: incompatible overlapping changes
+revert: undoing a commit safely
