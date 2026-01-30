@@ -2,4 +2,4 @@ Relay Log
 Entry 1: Repository created by Anthony
 Entry 2: Anthony can confirm Elijah set up.
 Entry 3: Elijah has synced successfully.
-Entry X: The repository was deleted. (This is false.)
+Entry 4: Reverted false deletion entry (was INCORRECT).
