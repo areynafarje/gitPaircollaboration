@@ -1,2 +1,3 @@
 Relay Log
 Entry 1: Repository created by Anthony
+Entry 2: Anthony can confirm Elijah set up.
