@@ -1,5 +1,13 @@
 Shared Notes
-Line 1: Student B also edited this same line.
+<<<<<<< HEAD
+Line 1: Anthony and Student B both edited this same line.
 Line 2: Changes will intentionally overlap.
 Line 3: Merge conflicts will occur.
-Line 4: B-note: Conflicts are part of collaboration.
+Line 4: A-note: Pull before large changes.
+Line 5: B-note: Conflicts are part of collaboration.
+=======
+Line 1: Anthony edited this line first.
+Line 2: Changes will intentionally overlap.
+Line 3: Merge conflicts will occur.
+Line 4: A - note: Pull before large changes.
+>>>>>>> 85afcbd95c5609c352892602acb2d39cf0c48dfa
