@@ -1,0 +1,4 @@
+Shared Notes
+Line 1: This file will be edited by both students.
+Line 2: Changes will intentionally overlap.
+Line 3: Merge conflicts will occur.
