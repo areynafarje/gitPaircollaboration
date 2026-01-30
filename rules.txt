@@ -1,0 +1,8 @@
+Collaboration Rules
+1. Commit small and frequent changes.
+2. Write clear and descriptive commit messages.
+3. Sync with the shared repository before starting new work.
+4. Communicate with your partner about major changes.
+Conflict Handling Rules
+1. Do not panic when a merge conflict occurs.
+2. Read conflict markers carefully and keep both contributors’ work when possible.
